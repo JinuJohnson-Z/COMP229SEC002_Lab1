@@ -1,0 +1,35 @@
+ /* File Name		:	contact.css
+Student Name		:	Jinu Silpa Johnson
+Student Id		:	301405552
+Date				:	24-01-2024 */
+
+#ffp{
+ 
+
+
+    
+    max-width: 50rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    
+   
+}
+
+label{
+    font-size:xx-large;
+}
+
+input{
+    font-size: larger;
+}
+
+.submit{
+    font-size:x-large;
+}
+
+p,a{
+    font-size:x-large;
+    text-align: center;
+}
